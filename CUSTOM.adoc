@@ -1,0 +1,12 @@
+== Spring Cloud Stream Batch Producer Consumer - Customized
+
+Original for Spring Cloud Stream Batch Producer Consumer example batch-producer-consumer
+
+Adjusted for:
+- Spring Boot 3.3.0
+- Spring Cloud 2023.0.2
+
+## Running the application
+
+- Run docker-compose to start the Kafka broker
+- Build & Run the application
